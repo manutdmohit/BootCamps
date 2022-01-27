@@ -50,7 +50,7 @@
     "weeks": 10,
     "tuition": 9000,
     "minimumSkill": "beginner",
-    "scholarhipsAvailable": true,
+    "scholarshipsAvailable": true,
     "bootcamp": "5d725a037b292f5f8ceff787",
     "user": "5c8a1d5b0190b214360dc031"
   },
@@ -61,7 +61,7 @@
     "weeks": 10,
     "tuition": 12000,
     "minimumSkill": "intermediate",
-    "scholarhipsAvailable": false,
+    "scholarshipsAvailable": false,
     "bootcamp": "5d725a037b292f5f8ceff787",
     "user": "5c8a1d5b0190b214360dc031"
   },
